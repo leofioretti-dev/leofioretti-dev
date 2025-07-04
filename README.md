@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou o Léo Fioretti</h1>
 <h3 align="center">Arquiteto de Soluções, Pai da Maitê, Amante da "oitava arte" (tecnologia), Especialista em processos Fluig. Inovação e desafios me movem 🤖⌨️</h3>
 
-- 🔭 Atualmente estou atuando na [CRM Services](https://crmservices.com.br/consultoria-fluig)
+- 🔭 Atualmente estou atuando como autônomo.
 
 - 🌱 Decidi começar a me aventurar com **NodeJS e React (Next/Nest/Fastify)**
 
